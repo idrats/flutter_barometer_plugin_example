@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - pressure (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - pressure (from `.symlinks/plugins/pressure/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  pressure:
+    :path: ".symlinks/plugins/pressure/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  pressure: 0cb3d721439cf5dd49fb093a9daf3ff1c5f42d3f
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
